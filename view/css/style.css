@@ -1,0 +1,25 @@
+body{
+    padding: 10px;
+}
+
+.holder{
+    display: block;
+    margin: 0 auto;
+    width: 300px; 
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+
+#container{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    float: left;
+    clear: both;
+}
+
+input{
+        width: 47%;
+
+}
